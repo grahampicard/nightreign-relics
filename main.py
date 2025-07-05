@@ -74,13 +74,6 @@ def join_lines_text(lines):
     return " ".join(all_text)
 
 
-def export_csv(output_path):
-    with open(output_path, "r") as f:
-        reader = csv.reader(f)
-        for row in reader:
-            print(",".join(row))
-
-
 def main(video_path, output_path, output_format="json", start_second=0, ff_factor=40):
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
@@ -194,7 +187,4 @@ if __name__ == "__main__":
     if output_path is None:
         output_path = f"output.{args.output_format}"
 
-    if args.export_csv:
-        export_csv(output_path)
-    else:
-        main(args.video_path, output_path, args.output_format, args.start_second)
+    main(args.video_path, output_path, args.output_format, args.start_second)
