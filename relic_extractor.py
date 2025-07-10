@@ -163,7 +163,7 @@ def extract_relics(
                 continue
 
         # create a new relic data structure
-        relic = {"relic": None, "attributes": [], "diff": int(non_zero_count)}
+        relic = {"relic": None, "attributes": []}
 
         # first check for the relic label. label is the name of the relic
         # that is to the right of the relic icon

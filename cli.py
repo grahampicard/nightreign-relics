@@ -60,13 +60,12 @@ def main():
     elif args.output_format == "csv":
         with open(output_path, "w", newline="") as f:
             writer = csv.writer(f)
-            writer.writerow(["index", "relic", "attribute", "diff"])
+            writer.writerow(["index", "relic", "attribute"])
             for i, item in enumerate(extracted_data):
                 relic = item["relic"]
                 attributes = item["attributes"]
-                diff = item["diff"]
                 for attr in attributes:
-                    writer.writerow([i, relic, attr, diff])
+                    writer.writerow([i, relic, attr])
 
     print(f"Extraction complete. Data saved to {output_path}")
 
