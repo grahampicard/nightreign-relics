@@ -27,12 +27,6 @@ def main():
         help="The second at which to start analyzing the video.",
     )
     parser.add_argument(
-        "--ff_factor",
-        type=int,
-        default=40,
-        help="The number of frames to skip per scan.",
-    )
-    parser.add_argument(
         "--export_csv",
         action="store_true",
         help="Export the CSV file to the console.",
