@@ -1,3 +1,4 @@
+from typing import Dict, List
 import cv2
 import easyocr
 import numpy as np
@@ -76,11 +77,11 @@ def extract_relics(
     video_path,
     start_second=0,
     debug=False,
-):
+) -> List[Dict]:
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         print("Error: Could not open video.")
-        return
+        return []
 
     fps = cap.get(cv2.CAP_PROP_FPS)
     start_frame = int(start_second * fps)
@@ -150,7 +151,7 @@ def extract_relics(
         current_attr1_frame = _slice_frame(frame, *attr1_bbox, cv2.COLOR_BGR2GRAY)
         current_attr2_frame = _slice_frame(frame, *attr2_bbox, cv2.COLOR_BGR2GRAY)
         current_attr3_frame = _slice_frame(frame, *attr3_bbox, cv2.COLOR_BGR2GRAY)
-        current_icon_frame = _slice_frame(frame, *icon_bbox, cv2.COLOR_BGR2GRAY)
+        # current_icon_frame = _slice_frame(frame, *icon_bbox, cv2.COLOR_BGR2GRAY)
         diff = np.zeros_like(current_orb_frame)
         non_zero_count = 0
 
