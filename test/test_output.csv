@@ -1,20 +1,680 @@
 index,relic,attribute
-0,Grand Tranquil Scene,[Duchess] Dagger chain attack reprises event upon nearby enemies
-0,Grand Tranquil Scene,Increased rune acquisition for self and allies
-0,Grand Tranquil Scene,Changes. compatible armament's skill to Eruption at start of expedition
-1,Grand Luminous Scene,[Ironeye] Boosts thrusting counterattacks after executing Art
-1,Grand Luminous Scene,Starting armament inflicts blood loss
-1,Grand Luminous Scene,Guard counter is given a boost based on current HP
-2,Grand Drizzly Scene,[Guardian] Slowly restores nearby allies' HP while Art is active
-2,Grand Drizzly Scene,FP Restoration upon Hammer Attacks
-2,Grand Drizzly Scene,Changes. compatible armament s skill to Glintblade Phalanx at start of expedition
-3,Grand Luminous Scene,Taking attacks improves attack power
-3,Grand Luminous Scene,Character Skill Cooldown Reduction +1
-3,Grand Luminous Scene,Fire Damage Negation Up
-4,Polished Drizzly Scene,Max HP Up- with 3+ Greatshields Equipped
-4,Polished Drizzly Scene,Improved Damage Negation at Low HP
-5,Polished Luminous Scene,Improved Dragon Communion Incantations
-5,Polished Luminous Scene,Increased rune acquisition for self and allies
-6,Grand Burning Scene,[Revenant] Power up while fighting alongside family
-6,Grand Burning Scene,HP Restoration upon Greataxe Attacks
-6,Grand Burning Scene,Holy Attack Power Up +2
+0,Delicate Burning Scene,Defeating enemies fills more ofthe Art gauge
+1,Delicate Luminous Scene,Changes compatible armament's skill to Sacred Blade at start of expedition
+2,Grand Drizzly Scene,using Character Skill [Raider] Damage taken while improves attack power and stamina
+2,Grand Drizzly Scene,HP Restoration upon Colossal Sword Attacks
+2,Grand Drizzly Scene,Intelligence +2
+3,Polished Burning Scene,[Ironeye] Boosts thrusting counterattacks after executing Art
+3,Polished Burning Scene,Improved Bow Attack Power
+4,Polished Burning Scene,[Raider] Duration of Ultimate Art extended
+4,Polished Burning Scene,Improved Damage Negation at Low HP
+5,Polished Burning Scene,using [Wylder] Follow-up attacks possible when Character Skill (greatsword only
+5,Polished Burning Scene,Dexterity +3
+6,Grand Burning Scene,using [Wylder] Follow-up attacks possible when Character Skill (greatsword only
+6,Grand Burning Scene,Attack power permanently increased for each evergaol prisoner defeated
+6,Grand Burning Scene,Character Skill Cooldown Reduction +2
+7,Polished Tranquil Scene,Starting armament deals fire damage
+7,Polished Tranquil Scene,Improved Poise & Damage Negation When Knocked Back by Damage
+8,Polished Luminous Scene,HP Restoration upon Axe Attacks
+8,Polished Luminous Scene,Changes compatible armament'$ skill to Poison Moth Flight at start of expedition
+9,Polished Luminous Scene,Improved Fundamentalist Incantations
+9,Polished Luminous Scene,Changes compatible armament's skill to Rain of Arrows at start of expedition
+10,Delicate Burning Scene,Faith +2
+11,Delicate Burning Scene,Improved Throwing Pot Damage
+12,Grand Luminous Scene,Improved Dragon Communion Incantations
+12,Grand Luminous Scene,Stamina recovers with each successful attack
+12,Grand Luminous Scene,Lightning Attack Power Up +1
+13,Grand Burning Scene,Small Pouch in possession at start of expedition
+13,Grand Burning Scene,Faith +2
+13,Grand Burning Scene,Magic Attack Power Up +2
+14,Polished Luminous Scene,Faith +3
+14,Polished Luminous Scene,Arcane +2
+15,Grand Burning Scene,Holy Water Pots in possession at start of expedition
+15,Grand Burning Scene,Crystal Darts in possession at start of expedition
+15,Grand Burning Scene,compatible armament's skill to Prayerful Changes. Strike at start of expedition
+16,Polished Drizzly Scene,Guardian] Increased duration for Character Skill
+16,Polished Drizzly Scene,Magic _ Attack Power Up +2
+17,Polished Burning Scene,[Ironeye] Art Charge = Activation Adds Poison Effect
+17,Polished Burning Scene,Lightning Damage Negation Up
+18,Delicate Tranquil Scene,Improved Carian Sword Sorcery
+19,Delicate Burning Scene,Improved Attack Power with 3+ Colossal Weapons Equipped
+20,Grand Tranquil Scene,Stamina recovers with each successful attack
+20,Grand Tranquil Scene,Attack power up when facing frostbite-afflicted enemy
+20,Grand Tranquil Scene,Holy Attack Power Up +1
+21,Polished Burning Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+21,Polished Burning Scene,Endurance +3
+22,Polished Tranquil Scene,[Ironeye] Boosts thrusting counterattacks after executing Art
+22,Polished Tranquil Scene,Vigor +3
+23,Grand Drizzly Scene,[Recluse] Activating Ultimate Art raises Max HP
+23,Grand Drizzly Scene,HP Restoration upon Claw Attacks
+23,Grand Drizzly Scene,Max FP permanently increased after releasing Sorcerer' s Rise mechanism
+24,Polished Luminous Scene,Wraith Calling Bell in possession at start of expedition
+24,Polished Luminous Scene,Faith +1
+25,Polished Drizzly Scene,Critical Hits Earn Runes
+25,Polished Drizzly Scene,Fire Attack Power Up
+26,Grand Drizzly Scene,[Revenant] Strengthens family and allies when Ultimate Art is activated
+26,Grand Drizzly Scene,Stamina recovers with each successful attack
+26,Grand Drizzly Scene,Intelligence +2
+27,Polished Luminous Scene,FP Restoration upon Axe Attacks
+27,Polished Luminous Scene,Partial HP Restoration upon Post-Damage Attacks
+28,Polished Drizzly Scene,"[Executor] While Character Skill is active, unlocking use of cursed sword restores HP"
+28,Polished Drizzly Scene,Improved Attack Power with 3+ Daggers Equipped
+29,Grand Tranquil Scene,Improved Fundamentalist Incantations
+29,Grand Tranquil Scene,Ultimate Art Gauge +1
+29,Grand Tranquil Scene,Improved Death Blight Resistance
+30,Polished Tranquil Scene,[Duchess] Improved Character Skill Attack Power
+30,Polished Tranquil Scene,FP Restoration upon Twinblade Attacks
+31,Polished Drizzly Scene,Defeating enemies near Totem Stela restores HP
+31,Polished Drizzly Scene,Starting armament deals magic damage
+32,Polished Tranquil Scene,Improved Critical Hits
+32,Polished Tranquil Scene,Vigor +2
+33,Delicate Drizzly Scene,Improved Madness Resistance
+34,Grand Drizzly Scene,Improved Stance-Breaking when Wielding Two Armaments
+34,Grand Drizzly Scene,Improved Poise & Damage Negation When Knocked Back by Damage
+34,Grand Drizzly Scene,Magic Damage Negation Up
+35,Grand Burning Scene,Improved Crystalian sorcery
+35,Grand Burning Scene,Magic Grease in possession at start of expedition
+35,Grand Burning Scene,Lightning Attack Power Up +1
+36,Polished Burning Scene,Improved Greatsword Attack Power
+36,Polished Burning Scene,Faith +2
+37,Polished Drizzly Scene,HP Restoration upon Dagger Attacks
+37,Polished Drizzly Scene,Improved Critical Hits
+38,Grand Luminous Scene,[Duchess] Improved Character Skill Attack Power
+38,Grand Luminous Scene,Improved Whip Attack Power
+38,Grand Luminous Scene,HP Restoration upon Katana Attacks
+39,Grand Drizzly Scene,Crystal Darts in possession at start of expedition
+39,Grand Drizzly Scene,Improved Poise & Damage Negation When Knocked Back by Damage
+39,Grand Drizzly Scene,Intelligence +3
+40,Polished Drizzly Scene,Improved Dagger Attack Power
+40,Polished Drizzly Scene,Improved Crystalian sorcery
+41,Grand Tranquil Scene,Defeating enemies near Totem Stela restores HP
+41,Grand Tranquil Scene,Throwing Daggers in possession at start of expedition
+41,Grand Tranquil Scene,Changes. compatible armament s skill to Blood Blade at start of expedition
+42,Polished Drizzly Scene,Improved Throwing Stone Damage
+42,Polished Drizzly Scene,Guard counter is given a boost based on current HP
+43,Polished Drizzly Scene,Fire Pots in possession at start of expedition
+43,Polished Drizzly Scene,Magic Damage Negation Up
+44,Grand Tranquil Scene,[Recluse] Collecting affinity residue activates Terra Magica
+44,Grand Tranquil Scene,"HP restored when using cured meats, medicinal boluses, etc."
+44,Grand Tranquil Scene,Holy Damage Negation Up
+45,Polished Burning Scene,Endurance +3
+45,Polished Burning Scene,Magic Attack Power Up +1
+46,Grand Tranquil Scene,[Recluse] Suffer blood loss and increase attack power upon Art activation
+46,Grand Tranquil Scene,Max FP Up with 3+ Staves Equipped
+46,Grand Tranquil Scene,Arcane +1
+47,Polished Burning Scene,HP Restoration upon Fist Attacks
+47,Polished Burning Scene,Holy Attack Power Up
+48,Polished Tranquil Scene,[Wylder] Art gauge greatly filled when ability is activated
+48,Polished Tranquil Scene,FP Restoration upon Greatsword Attacks
+49,Grand Drizzly Scene,Changes Flaming compatible armament's skill to Strike at start of expedition
+49,Grand Drizzly Scene,Vigor +2
+49,Grand Drizzly Scene,Improved Sleep Resistance
+50,Polished Drizzly Scene,"[Executor] While Character Skill is active, unlocking use of cursed sword restores HP"
+50,Polished Drizzly Scene,Changes compatible armament's skill to Endure at start of expedition
+51,Polished Burning Scene,[Recluse] Activating Ultimate Art raises Max HP
+51,Polished Burning Scene,FP Restoration upon Bow Attacks
+52,Polished Drizzly Scene,Improved Reaper Attack Power
+52,Polished Drizzly Scene,Changes compatible armament's skill to Flaming Strike at start of expedition
+53,Grand Burning Scene,[Wylder] +1 additional Character Skill use
+53,Grand Burning Scene,HP Restoration upon Colossal Weapon Attacks
+53,Grand Burning Scene,Improved Poise & Damage Negation When Knocked Back by Damage
+54,Polished Burning Scene,[Recluse] Collecting affinity residue activates Terra Magica
+54,Polished Burning Scene,Character Skill Cooldown Reduction +3
+55,Grand Burning Scene,[Duchess] Dagger chain attack reprises event upon nearby enemies
+55,Grand Burning Scene,Improved Twinblade Attack Power
+55,Grand Burning Scene,Changes. compatible armament s skill to Blood Blade at start of expedition
+56,Polished Drizzly Scene,Improved Stonedigger Sorcery
+56,Polished Drizzly Scene,Holy Damage Negation Up
+57,Polished Burning Scene,Improved Bow Attack Power
+57,Polished Burning Scene,Endurance +3
+58,Grand Burning Scene,[Recluse] Collecting affinity residue activates Terra Magica
+58,Grand Burning Scene,Mind +3
+58,Grand Burning Scene,Ultimate Art Gauge +2
+59,Grand Burning Scene,[Recluse] Activating Ultimate Art raises Max HP
+59,Grand Burning Scene,Improved Greataxe Attack Power
+59,Grand Burning Scene,compatible armament's skill to Flaming Changes. Strike at start of expedition
+60,Polished Burning Scene,[Guardian] Slowly restores nearby allies' HP while Art is active
+60,Polished Burning Scene,HP Restoration upon Straight Sword Attacks
+61,Polished Burning Scene,FP Restoration upon Reaper Attacks
+61,Polished Burning Scene,Physical Attack Up +2
+62,Grand Drizzly Scene,using [Wylder] Follow-up attacks possible when Character Skill (greatsword only
+62,Grand Drizzly Scene,Mind +3
+62,Grand Drizzly Scene,Fire Damage Negation Up
+63,Grand Luminous Scene,[Executor] Character Skill Boosts Attack but Attacking Drains HP
+63,Grand Luminous Scene,Draw enemy attention while guarding
+63,Grand Luminous Scene,Fire Pots in possession at start of expedition
+64,Grand Luminous Scene,[Ironeye] Boosts thrusting counterattacks after executing Art
+64,Grand Luminous Scene,Changes compatible armament's skill to Poison Moth Flight at start of expedition
+64,Grand Luminous Scene,Improved Poise & Damage Negation When Knocked Back by Damage
+65,Polished Drizzly Scene,Flask Also Heals Allies
+65,Polished Drizzly Scene,Bewitching Branches in possession at start of expedition
+66,Polished Tranquil Scene,Improved Critical Hits
+66,Polished Tranquil Scene,Defeating enemies restores HP for allies but not for self
+67,Grand Burning Scene,HP Restoration upon Twinblade Attacks
+67,Grand Burning Scene,Changes compatible armament's skill to White Shadow' s Lure at start of expedition
+67,Grand Burning Scene,Fire Damage Negation Up
+68,Grand Burning Scene,Improved Stance-Breaking when Wielding Two Armaments
+68,Grand Burning Scene,Holy Water Pots in possession at start of - expedition
+68,Grand Burning Scene,Magic Damage Negation Up
+69,Grand Tranquil Scene,[Revenant] Expend own HP to fully heal nearby allies when activating Art
+69,Grand Tranquil Scene,Improved Curved Greatsword Attack Power
+69,Grand Tranquil Scene,Strength +3
+70,Polished Burning Scene,Poise +3
+70,Polished Burning Scene,Lightning Attack Power Up
+71,Polished Burning Scene,FP Restoration upon Twinblade Attacks
+71,Polished Burning Scene,Holy Attack Power Up +2
+72,Dark Night of the Champion,Increased Maximum Stamina
+72,Dark Night of the Champion,Boosts Attack Power of Added Affinity Attacks
+72,Dark Night of the Champion,Defeating enemies fills more ofthe Art gauge
+73,Dark Night ofthe Wise,Increased Maximum FP
+73,Dark Night ofthe Wise,FP Restoration upon Successive Attacks
+73,Dark Night ofthe Wise,Max FP permanently increased after releasing Sorcerer' $ Rise mechanism
+74,Grand Tranquil Scene,[Wylder] Art gauge greatly filled when ability is activated
+74,Grand Tranquil Scene,Improved Initial Standard Attack
+74,Grand Tranquil Scene,Improved Perfuming Arts
+75,Grand Tranquil Scene,Improved Throwing Stone Damage
+75,Grand Tranquil Scene,Wraith Calling Bell in possession at start of expedition
+75,Grand Tranquil Scene,Holy Attack Power Up +1
+76,Polished Burning Scene,Critical Hits Earn Runes
+76,Polished Burning Scene,Faith +3
+77,Polished Burning Scene,Art gauge charged from successful guarding
+77,Polished Burning Scene,Physical Attack Up +2
+78,Grand Drizzly Scene,[Revenant] Strengthens family and allies when Ultimate Art is activated
+78,Grand Drizzly Scene,Faith +2
+78,Grand Drizzly Scene,Holy Attack Power Up +1
+79,Polished Drizzly Scene,[Wylder] Art activation spreads fire in area
+79,Polished Drizzly Scene,Improved Stance-Breaking when Two-Handing
+80,Polished Luminous Scene,facing frostbite-afflicted Attack power up when enemy
+80,Polished Luminous Scene,Intelligence +2
+81,Grand Tranquil Scene,[Duchess] Dagger chain attack reprises event upon nearby enemies
+81,Grand Tranquil Scene,Increased rune acquisition for self and allies
+81,Grand Tranquil Scene,Changes. compatible armament's skill to Eruption at start of expedition
+82,Grand Luminous Scene,[Ironeye] Boosts thrusting counterattacks after executing Art
+82,Grand Luminous Scene,Starting armament inflicts blood loss
+82,Grand Luminous Scene,Guard counter is given a boost based on current HP
+83,Grand Drizzly Scene,[Guardian] Slowly restores nearby allies' HP while Art is active
+83,Grand Drizzly Scene,FP Restoration upon Hammer Attacks
+83,Grand Drizzly Scene,Changes. compatible armament s skill to Glintblade Phalanx at start of expedition
+84,Grand Luminous Scene,Taking attacks improves attack power
+84,Grand Luminous Scene,Character Skill Cooldown Reduction +1
+84,Grand Luminous Scene,Fire Damage Negation Up
+85,Polished Drizzly Scene,Max HP Up- with 3+ Greatshields Equipped
+85,Polished Drizzly Scene,Improved Damage Negation at Low HP
+86,Polished Luminous Scene,Improved Dragon Communion Incantations
+86,Polished Luminous Scene,Increased rune acquisition for self and allies
+87,Grand Burning Scene,[Revenant] Power up while fighting alongside family
+87,Grand Burning Scene,HP Restoration upon Greataxe Attacks
+87,Grand Burning Scene,Holy Attack Power Up +2
+88,Polished Tranquil Scene,Glintstone in possession at start of Scraps expedition
+88,Polished Tranquil Scene,Strength +3
+89,Grand Tranquil Scene,Changes compatible armament's skill to Thunderbolt at start of expedition
+89,Grand Tranquil Scene,Rune discount for shop purchases while on expedition
+89,Grand Tranquil Scene,facing frostbite-afflicted Attack power up when enemy
+90,Polished Burning Scene,"HP restored when cured meats, medicinal using boluses, etc:"
+90,Polished Burning Scene,Ultimate Art Gauge +1
+91,Polished Drizzly Scene,Guardian] Creates whirlwind when charging halberd attacks
+91,Polished Drizzly Scene,Mind +1
+92,Grand Burning Scene,Wraith Calling Bell in possession at start of expedition
+92,Grand Burning Scene,Changes Stomp compatible armament's skill to Storm at start of expedition
+92,Grand Burning Scene,Fire Attack Power Up +1
+93,Polished Drizzly Scene,Defeating enemies near Totem Stela restores HP
+93,Polished Drizzly Scene,Starting armament inflicts blood loss
+94,Polished Drizzly Scene,HP Restoration upon Curved Sword Attacks
+94,Polished Drizzly Scene,Improved Poise & Damage Negation When Knocked Back by Damage
+95,Polished Drizzly Scene,"[Executor] While Character Skill is active, unlocking use of cursed sword restores HP"
+95,Polished Drizzly Scene,Poise +1
+96,Polished Burning Scene,HP Recovery From Successful Guarding
+96,Polished Burning Scene,Fire Attack Power Up +1
+97,Grand Tranquil Scene,[Raider] Duration of Ultimate Art extended
+97,Grand Tranquil Scene,Max FP Up with 3+ Sacred Seals Equipped
+97,Grand Tranquil Scene,Faith +2
+98,Polished Drizzly Scene,[Executor] Character Skill Boosts Attack but Attacking Drains HP
+98,Polished Drizzly Scene,Improved Bestial Incantations
+99,Polished Luminous Scene,Improved Initial Standard Attack
+99,Polished Luminous Scene,Lightning Damage Negation Up
+100,Polished Tranquil Scene,[Recluse] Collecting affinity residue activates Terra Magica
+100,Polished Tranquil Scene,Changes compatible armament's skill to Glintblade Phalanx at start of expedition
+101,Polished Luminous Scene,[Ironeye] +1 additional Character Skill use
+101,Polished Luminous Scene,Intelligence +3
+102,Night ofthe Wise,Increased Maximum FP
+102,Night ofthe Wise,Starting armament inflicts poison
+102,Night ofthe Wise,Poison & Rot in Vicinity Increases Attack Power
+103,Grand Drizzly Scene,Slowly restore HP for self and nearby allies when HP is low
+103,Grand Drizzly Scene,Glintstone Scraps in possession at start of expedition
+103,Grand Drizzly Scene,Magic ' Grease in possession at start of expedition
+104,Polished Burning Scene,Improved Great Hammer Attack Power
+104,Polished Burning Scene,Mind +2
+105,Grand Drizzly Scene,[Wylder] Art activation spreads fire in area
+105,Grand Drizzly Scene,Draw enemy attention while guarding
+105,Grand Drizzly Scene,compatible armament's skill to Poison Moth Changes. Flight at start of _ expedition
+106,Polished Burning Scene,Improved Giants' Flame Incantations
+106,Polished Burning Scene,Fire Attack Power Up
+107,Polished Drizzly Scene,Lightning Pots in possession at start of expedition
+107,Polished Drizzly Scene,Vigor +2
+108,Grand Drizzly Scene,Improved Throwing Knife Damage
+108,Grand Drizzly Scene,Faith +1
+108,Grand Drizzly Scene,Ultimate Art Gauge +3
+109,Polished Tranquil Scene,Critical Hits Earn Runes
+109,Polished Tranquil Scene,Magic Attack Power Up
+110,Polished Drizzly Scene,[Duchess] Defeating enemies while Art is active ups attack power
+110,Polished Drizzly Scene,Improved Giants' Flame Incantations
+111,Grand Luminous Scene,[Revenant] Strengthens family and allies when Ultimate Art is activated
+111,Grand Luminous Scene,Changes compatible armament's skill to Determination at start of expedition
+111,Grand Luminous Scene,Vigor +3
+112,Polished Drizzly Scene,Partial HP Restoration upon Post-Damage Attacks
+112,Polished Drizzly Scene,Improved Throwing Knife Damage
+113,Polished Tranquil Scene,Improved Colossal Weapon Attack Power
+113,Polished Tranquil Scene,Endurance +2
+114,Delicate Burning Scene,Magic Attack Power Up
+115,Delicate Tranquil Scene,Changes compatible armament's skill to Endure at start of expedition
+116,Grand Drizzly Scene,[Revenant] during Trigger ghostflame explosion Ultimate Art activation
+116,Grand Drizzly Scene,Partial HP Restoration upon Post-Damage Attacks
+116,Grand Drizzly Scene,Magic Pots in possession at start of expedition
+117,Polished Burning Scene,Treasure marked upon map
+117,Polished Burning Scene,Physical Attack Up
+118,Grand Luminous Scene,using Character Skill [Raider] Damage taken while improves attack power and stamina
+118,Grand Luminous Scene,Improved Guard Counters
+118,Grand Luminous Scene,Starting armament inflicts poison
+119,Polished Burning Scene,[Ironeye] +1 additional Character Skill use
+119,Polished Burning Scene,Art gauge fills moderately upon critical hit
+120,Polished Luminous Scene,Starting armament inflicts frost
+120,Polished Luminous Scene,Crystal Darts in possession at start of expedition
+121,Grand Tranquil Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+121,Grand Tranquil Scene,Starlight Shards in possession at start of expedition
+121,Grand Tranquil Scene,Magic Damage Negation Up
+122,Polished Luminous Scene,Attack power permanently increased for each evergaol prisoner defeated
+122,Polished Luminous Scene,Starting armament deals magic damage
+123,Polished Tranquil Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+123,Polished Tranquil Scene,Intelligence +2
+124,Polished Luminous Scene,Treasure marked upon map
+124,Polished Luminous Scene,Changes compatible armament's skill to Determination at start of expedition
+125,Grand Drizzly Scene,HP Restoration upon Twinblade Attacks
+125,Grand Drizzly Scene,Attack power up after defeating = Night Invader
+125,Grand Drizzly Scene,Starting armament deals fire damage
+126,Grand Tranquil Scene,Improved Invisibility Sorcery
+126,Grand Tranquil Scene,Vigor +1
+126,Grand Tranquil Scene,Physical Attack Up +2
+127,Grand Tranquil Scene,HP Restoration upon Flail Attacks
+127,Grand Tranquil Scene,Starting armament inflicts frost
+127,Grand Tranquil Scene,Magic ' Grease in possession at start of expedition
+128,Polished Tranquil Scene,Mind +3
+128,Polished Tranquil Scene,Arcane +1
+129,Polished Tranquil Scene,Improved Fundamentalist Incantations
+129,Polished Tranquil Scene,Magic _ Attack Power Up
+130,Delicate Luminous Scene,Improved Throwing Knife Damage
+131,Delicate Tranquil Scene,Flask Also Heals Allies
+132,Night ofthe Lord,Switching Weapons Adds an Affinity Attack
+132,Night ofthe Lord,Boosts Attack Power of Added Affinity Attacks
+132,Night ofthe Lord,Switching Weapons Boosts Attack Power
+133,Grand Burning Scene,[Duchess] Defeating enemies while Art is active ups attack power
+133,Grand Burning Scene,Improved Attack Power with 3+ Greatswords Equipped
+133,Grand Burning Scene,Items confer effect to all nearby allies
+134,Grand Drizzly Scene,Defeating enemies restores HP for allies but not for self
+134,Grand Drizzly Scene,Fire Attack Power Up +2
+134,Grand Drizzly Scene,Improved Frost Resistance
+135,Grand Luminous Scene,FP Restoration upon Whip Attacks
+135,Grand Luminous Scene,Improved Thorn Sorcery
+135,Grand Luminous Scene,Glintstone Scraps in possession at start of expedition
+136,Polished Drizzly Scene,Improved Halberd Attack Power
+136,Polished Drizzly Scene,HP Restoration upon Axe Attacks
+137,Polished Drizzly Scene,Defeating enemies near Totem Stela restores HP
+137,Polished Drizzly Scene,Improved Initial Standard Attack
+138,Grand Tranquil Scene,[Duchess] Improved Character Skill Attack Power
+138,Grand Tranquil Scene,Dexterity +2
+138,Grand Tranquil Scene,Intelligence +2
+139,Night of the Champion,Increased Maximum Stamina
+139,Night of the Champion,Guard counter is given a boost based on current HP
+139,Night of the Champion,HP Restoration upon Thrusting Counterattack
+140,Grand Burning Scene,Guardian] Creates whirlwind when charging halberd attacks
+140,Grand Burning Scene,Changes compatible armament's skill to Determination at start of expedition
+140,Grand Burning Scene,Magic Attack Power Up
+141,Grand Burning Scene,Small Pouch in possession at start of expedition
+141,Grand Burning Scene,Intelligence +2
+141,Grand Burning Scene,Lightning Attack Power Up +1
+142,Polished Burning Scene,HP Restoration upon Dagger Attacks
+142,Polished Burning Scene,Lightning Attack Power Up
+143,Polished Tranquil Scene,Improved Attack Power with 3+ Reapers Equipped
+143,Polished Tranquil Scene,Intelligence +3
+144,Polished Tranquil Scene,using Character Skill [Raider] Damage taken while improves attack power and stamina
+144,Polished Tranquil Scene,Changes compatible armaments skill to Hoarfrost Stomp at start of expedition
+145,Delicate Tranquil Scene,Items confer effect to all nearby allies
+146,Delicate Drizzly Scene,Improved Halberd Attack Power
+147,Polished Burning Scene,Improved Attack Power with 3+ Katana Equipped
+147,Polished Burning Scene,Improved Madness Resistance
+148,Delicate Luminous Scene,FP Restoration upon Greatsword Attacks
+149,Night ofthe Miasma,Nearby Frostbite Conceals Self
+149,Night ofthe Miasma,Changes compatible armaments skill to Chilling Mist at start of expedition
+149,Night ofthe Miasma,facing frostbite-afflicted Attack power up when enemy
+150,Grand Burning Scene,Guardian] Increased duration for Character Skill
+150,Grand Burning Scene,Magic Pots in possession at start of expedition
+150,Grand Burning Scene,Lightning Attack Power Up
+151,Polished Tranquil Scene,Shield Grease in possession at start of expedition
+151,Polished Tranquil Scene,Faith +3
+152,Grand Tranquil Scene,[Duchess] Improved Character Skill Attack Power
+152,Grand Tranquil Scene,Poisonbone Darts in possession at start of expedition
+152,Grand Tranquil Scene,Endurance +3
+153,Polished Drizzly Scene,Attack power up when facing poison-. afflicted enemy
+153,Polished Drizzly Scene,Intelligence +2
+154,Polished Luminous Scene,Changes compatible armament's skill to Rain of Arrows at start of expedition
+154,Polished Luminous Scene,Intelligence +3
+155,Grand Luminous Scene,Changes compatible armament's skill to Poison Moth Flight at start of expedition
+155,Grand Luminous Scene,Faith +1
+155,Grand Luminous Scene,Poise +3
+156,Polished Luminous Scene,Changes compatible armament's skill to Blood Blade at start of expedition
+156,Polished Luminous Scene,Intelligence +1
+157,Polished Drizzly Scene,FP Restoration upon Colossal Weapon Attacks
+157,Polished Drizzly Scene,Holy Attack Power Up +2
+158,Delicate Luminous Scene,Vigor +3
+159,Delicate Luminous Scene,Starting armament deals holy damage
+160,Grand Drizzly Scene,[Duchess] Dagger chain attack reprises event upon nearby enemies
+160,Grand Drizzly Scene,Endurance +3
+160,Grand Drizzly Scene,Arcane +3
+161,Polished Burning Scene,Poisonbone Darts in possession at start of expedition
+161,Polished Burning Scene,Changes compatible armament's skill to Endure at start of expedition
+162,Polished Tranquil Scene,Improved Great Spear Attack Power
+162,Polished Tranquil Scene,Character Skill Cooldown Reduction +1
+163,Grand Burning Scene,[Raider] Duration of Ultimate Art extended
+163,Grand Burning Scene,Endurance +3
+163,Grand Burning Scene,Improved Blood Loss Resistance
+164,Polished Drizzly Scene,Fire Damage Negation Up
+164,Polished Drizzly Scene,Improved Rot Resistance
+165,Grand Burning Scene,Improved Great Spear Attack Power
+165,Grand Burning Scene,Attack power up when facing scarlet rot-afflicted enemy
+165,Grand Burning Scene,Mind +3
+166,Polished Burning Scene,Improved Invisibility Sorcery
+166,Polished Burning Scene,Glintstone Scraps in possession at start of expedition
+167,Polished Burning Scene,using Character Skill [Raider] Damage taken while improves attack power and stamina
+167,Polished Burning Scene,Holy Attack Power Up
+168,Grand Luminous Scene,Attack power permanently increased for each evergaol prisoner defeated
+168,Grand Luminous Scene,Treasure marked upon map
+168,Grand Luminous Scene,Stonesword Key in possession at start of expedition
+169,Grand Burning Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+169,Grand Burning Scene,Improved Initial Standard Attack
+169,Grand Burning Scene,Changes. compatible armament's skill to Thunderbolt at start of expedition
+170,Grand Burning Scene,using Character Skill [Raider] Damage taken while improves attack power and stamina
+170,Grand Burning Scene,Attack power up when facing frostbite-afflicted enemy
+170,Grand Burning Scene,Fire Attack Power Up +1
+171,Polished Burning Scene,Starting armament deals magic damage
+171,Polished Burning Scene,Holy Attack Power Up +1
+172,Polished Tranquil Scene,Faith +2
+172,Polished Tranquil Scene,Fire Damage Negation Up
+173,Grand Burning Scene,Flask Also Heals Allies
+173,Grand Burning Scene,Improved Godslayer Incantations
+173,Grand Burning Scene,Changes. compatible armament s skill to Blood Blade at start of expedition
+174,Polished Burning Scene,"HP restored when cured meats, medicinal using boluses, etc:"
+174,Polished Burning Scene,Poise +3
+175,Polished Burning Scene,Changes compatible armament's skill to Lightning Slash at start of expedition
+175,Polished Burning Scene,Improved Sleep Resistance
+176,Delicate Burning Scene,Guardian] Increased duration for Character Skill
+177,Polished Burning Scene,[Revenant] during Trigger ghostflame explosion Ultimate Art activation
+177,Polished Burning Scene,Partial HP Restoration upon Post-Damage Attacks
+178,Polished Tranquil Scene,[Executor] Character Skill Boosts Attack but Attacking Drains HP
+178,Polished Tranquil Scene,Partial HP Restoration upon Post-Damage Attacks
+179,Grand Burning Scene,FP Restoration upon Great Spear Attacks
+179,Grand Burning Scene,Improved Guard Counters
+179,Grand Burning Scene,Arcane +2
+180,Polished Tranquil Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+180,Polished Tranquil Scene,Improved Crystalian sorcery
+181,Polished Drizzly Scene,Vigor +3
+181,Polished Drizzly Scene,Arcane +2
+182,Polished Tranquil Scene,"HP restored when cured meats, medicinal using boluses, etc:"
+182,Polished Tranquil Scene,Physical Attack Up +2
+183,Polished Drizzly Scene,Increased rune acquisition for self and allies
+183,Polished Drizzly Scene,Guard counter is given a boost based on current HP
+184,Polished Luminous Scene,[Ironeye] Extends duration of weak point
+184,Polished Luminous Scene,Magic _ Attack Power Up
+185,Grand Tranquil Scene,using [Wylder] Follow-up attacks possible when Character Skill (greatsword only
+185,Grand Tranquil Scene,Max HP Up with 3+ Medium Shields Equipped
+185,Grand Tranquil Scene,Improved Crystalian sorcery
+186,Polished Luminous Scene,Improved Throwing Pot Damage
+186,Polished Luminous Scene,Changes compatible armaments skill to Prayerful Strike at start of expedition
+187,Polished Burning Scene,[Ironeye] Boosts thrusting counterattacks after executing Art
+187,Polished Burning Scene,Starlight Shards in possession at start of expedition
+188,Polished Drizzly Scene,Slowly restore HP for self and nearby allies when HP is low
+188,Polished Drizzly Scene,Poise +1
+189,Grand Drizzly Scene,Guardian] Creates whirlwind when charging halberd attacks
+189,Grand Drizzly Scene,Vigor +1
+189,Grand Drizzly Scene,Fire Attack Power Up +2
+190,Polished Tranquil Scene,using [Wylder] Follow-up attacks possible when Character Skill (greatsword only
+190,Polished Tranquil Scene,Improved Throwing Stone Damage
+191,Grand Burning Scene,[Revenant] during Trigger ghostflame explosion Ultimate Art activation
+191,Grand Burning Scene,Defeating enemies restores HP for allies but not for self
+191,Grand Burning Scene,Stamina recovers with each successful attack
+192,Polished Luminous Scene,Shield Grease in possession at start of expedition
+192,Polished Luminous Scene,Changes compatible armament's skill to Determination at start of expedition
+193,Polished Burning Scene,Throwing Daggers in possession at start of expedition
+193,Polished Burning Scene,Holy Attack Power Up
+194,Polished Luminous Scene,HP Restoration upon Curved Greatsword Attacks
+194,Polished Luminous Scene,Endurance +2
+195,Grand Drizzly Scene,Improved Perfuming Arts
+195,Grand Drizzly Scene,Starlight Shards in possession at start of expedition
+195,Grand Drizzly Scene,Improved Blood Loss Resistance
+196,Polished Luminous Scene,[Executor] Character Skill Boosts Attack but Attacking Drains HP
+196,Polished Luminous Scene,Vigor +3
+197,Delicate Luminous Scene,Wraith Calling Bell in possession at start of expedition
+198,Grand Luminous Scene,Improved Thrusting Sword Attack Power
+198,Grand Luminous Scene,"HP restored when using cured meats, medicinal boluses, etc."
+198,Grand Luminous Scene,Changes. compatible armament s skill to Gravitas at start of expedition
+199,Grand Drizzly Scene,[Wylder] Art gauge greatly filled when ability is activated
+199,Grand Drizzly Scene,Starting armament inflicts frost
+199,Grand Drizzly Scene,Glintstone Scraps in possession at start of expedition
+200,Polished Luminous Scene,HP Restoration upon Great Spear Attacks
+200,Polished Luminous Scene,Attack power up after defeating = Night Invader
+201,Polished Burning Scene,Ultimate Art Gauge +3
+201,Polished Burning Scene,Magic _ Attack Power Up +2
+202,Polished Burning Scene,Changes compatible armament's skill to Poison Moth Flight at start of expedition
+202,Polished Burning Scene,Dexterity +3
+203,Grand Burning Scene,Improved Stonedigger Sorcery
+203,Grand Burning Scene,Attack power up after defeating = Night Invader
+203,Grand Burning Scene,Vigor +3
+204,Polished Luminous Scene,Max HP Up- with 3+ Medium Shields Equipped
+204,Polished Luminous Scene,Changes compatible armament's skill to Flaming Strike at start of expedition
+205,Polished Drizzly Scene,Character Skill Cooldown Reduction +1
+205,Polished Drizzly Scene,Magic Damage Negation Up
+206,Polished Burning Scene,[Executor] Character Skill Boosts Attack but Attacking Drains HP
+206,Polished Burning Scene,Starlight Shards in possession at start of expedition
+207,Polished Luminous Scene,HP Restoration upon Great Hammer Attacks
+207,Polished Luminous Scene,Gravity Stone Chunks in possession at start of expedition
+208,Polished Tranquil Scene,FP Restoration upon Claw Attacks
+208,Polished Tranquil Scene,Dexterity +2
+209,Delicate Tranquil Scene,Critical Hit Boosts Stamina Recovery Speed
+210,Polished Drizzly Scene,Improved Fist Attack Power
+210,Polished Drizzly Scene,Strength +2
+211,Polished Luminous Scene,[Revenant] during Trigger ghostflame explosion Ultimate Art activation
+211,Polished Luminous Scene,Improved Godslayer Incantations
+212,Grand Burning Scene,[Revenant] Power up while fighting alongside family
+212,Grand Burning Scene,Improved Roar & Breath Attacks
+212,Grand Burning Scene,Treasure marked upon map
+213,Grand Luminous Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+213,Grand Luminous Scene,Improved Twinblade Attack Power
+213,Grand Luminous Scene,FP Restoration upon Axe Attacks
+214,Grand Drizzly Scene,"HP restored when cured meats, medicinal using boluses, etc:"
+214,Grand Drizzly Scene,Fire Attack Power Up +1
+214,Grand Drizzly Scene,Improved Madness Resistance
+215,Grand Burning Scene,Changes compatible armament's skill to Thunderbolt at start of expedition
+215,Grand Burning Scene,Intelligence +1
+215,Grand Burning Scene,Lightning Damage Negation Up
+216,Polished Luminous Scene,Magic Attack Power Up
+216,Polished Luminous Scene,Improved Madness Resistance
+217,Polished Tranquil Scene,[Revenant] Expend own HP to fully heal nearby allies when activating Art
+217,Polished Tranquil Scene,Fire Attack Power Up +2
+218,Delicate Tranquil Scene,Changes compatible armament's skill to Prayerful Strike at start of expedition
+219,Delicate Drizzly Scene,Changes Flaming compatible armament's skill to Strike at start of expedition
+220,Delicate Drizzly Scene,Improved Throwing Pot Damage
+221,Grand Luminous Scene,Defeating enemies near Totem Stela restores HP
+221,Grand Luminous Scene,Items confer effect to all nearby allies
+221,Grand Luminous Scene,Improved Sleep Resistance
+222,Polished Luminous Scene,[Executor] Roaring restores HP while Art is active
+222,Polished Luminous Scene,Ultimate Art Gauge +3
+223,Polished Luminous Scene,Improved Poise Near Totem Stela
+223,Polished Luminous Scene,Attack power permanently increased for each evergaol prisoner defeated
+224,Polished Drizzly Scene,Vigor +2
+224,Polished Drizzly Scene,Character Skill Cooldown Reduction +2
+225,Polished Luminous Scene,Critical Hit Boosts Stamina Recovery Speed
+225,Polished Luminous Scene,Character Skill Cooldown Reduction +3
+226,Grand Drizzly Scene,[Duchess] Defeating enemies while Art is active ups attack power
+226,Grand Drizzly Scene,Endurance +3
+226,Grand Drizzly Scene,Lightning Attack Power Up +2
+227,Polished Drizzly Scene,Improved Damage Negation at Low HP
+227,Polished Drizzly Scene,Starlight Shards in possession at start of expedition
+228,Polished Burning Scene,Improved Bow Attack Power
+228,Polished Burning Scene,FP Restoration upon Greataxe Attacks
+229,Polished Luminous Scene,HP Restoration upon Straight Sword Attacks
+229,Polished Luminous Scene,Improved Critical Hits
+230,Grand Tranquil Scene,Guardian] Increased duration for Character Skill
+230,Grand Tranquil Scene,Items confer effect to all nearby allies
+230,Grand Tranquil Scene,Guard counter is given a boost based on current HP
+231,Polished Tranquil Scene,HP Recovery From Successful Guarding
+231,Polished Tranquil Scene,Starting armament deals fire damage
+232,Polished Tranquil Scene,Improved Attack Power with 3+ Great Hammers Equipped
+232,Polished Tranquil Scene,Improved Madness Resistance
+233,Polished Drizzly Scene,using [Wylder] Follow-up attacks possible when Character Skill (greatsword only
+233,Polished Drizzly Scene,Max FP Up with 3+ Sacred Seals Equipped
+234,Grand Burning Scene,Changes compatible armament's skill to Lightning Slash at start of expedition
+234,Grand Burning Scene,Dexterity +3
+234,Grand Burning Scene,Arcane +3
+235,Grand Tranquil Scene,[Guardian] Creates whirlwind when charging halberd attacks
+235,Grand Tranquil Scene,Dexterity +3
+235,Grand Tranquil Scene,Fire Attack Power Up +2
+236,Polished Tranquil Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+236,Polished Tranquil Scene,Improved Rot Resistance
+237,Polished Burning Scene,Fire Grease in possession at start of expedition
+237,Polished Burning Scene,Intelligence +3
+238,Polished Burning Scene,using Character Skill [Raider] Damage taken while improves attack power and stamina
+238,Polished Burning Scene,Critical Hits Earn Runes
+239,Polished Burning Scene,HP Restoration upon Hammer Attacks
+239,Polished Burning Scene,Stamina recovers with each successful attack
+240,Delicate Burning Scene,Improved Flail Attack Power
+241,Delicate Drizzly Scene,Improved Attack Power with 3+ Hammers Equipped
+242,Delicate Drizzly Scene,Holy Water Pots in possession at start of expedition
+243,Delicate Tranquil Scene,Wraith Calling Bell in possession at start of expedition
+244,Grand Drizzly Scene,Improved Poise Near Totem Stela
+244,Grand Drizzly Scene,Improved Giants' Flame Incantations
+244,Grand Drizzly Scene,Magic Attack Power Up +2
+245,Grand Drizzly Scene,Draw enemy attention while guarding
+245,Grand Drizzly Scene,Improved Dragon Communion Incantations
+245,Grand Drizzly Scene,Physical Attack Up +2
+246,Polished Tranquil Scene,[Wylder] Art gauge greatly filled when ability is activated
+246,Polished Tranquil Scene,"Raised stamina recovery for nearby allies, but not for self"
+247,Polished Luminous Scene,Improved Critical Hits
+247,Polished Luminous Scene,Starting armament deals lightning damage
+248,Grand Drizzly Scene,Vigor +1
+248,Grand Drizzly Scene,Arcane +3
+248,Grand Drizzly Scene,Fire Attack Power Up +2
+249,Polished Burning Scene,[Ironeye] +1 additional Character Skill use
+249,Polished Burning Scene,FP Restoration upon Flail Attacks
+250,Polished Drizzly Scene,[Guardian] Reflect a portion of damage received when ability is activated
+250,Polished Drizzly Scene,Holy Grease in possession at start of 'expedition
+251,Polished Drizzly Scene,Character Skill Cooldown Reduction +2
+251,Polished Drizzly Scene,Ultimate Art Gauge +1
+252,Night ofthe Baron,Improved Critical Hits +1
+252,Night ofthe Baron,Art gauge fills moderately upon critical hit
+252,Night ofthe Baron,Critical Hit Boosts Stamina Recovery Speed
+253,Grand Luminous Scene,[Ironeye] Boosts thrusting counterattacks after executing Art
+253,Grand Luminous Scene,Changes compatible armament's skill to Gravitas at start of expedition
+253,Grand Luminous Scene,Faith +1
+254,Grand Tranquil Scene,[Revenant] Strengthens family and allies when Ultimate Art is activated
+254,Grand Tranquil Scene,Critical Hit Boosts Stamina Recovery Speed
+254,Grand Tranquil Scene,Fire Attack Power Up +1
+255,Polished Burning Scene,[Duchess] Become difficult to spot and silence footsteps after landing critical from behind
+255,Polished Burning Scene,HP Restoration upon Axe Attacks
+256,Polished Tranquil Scene,[Executor] Character Skill Boosts Attack but Attacking Drains HP
+256,Polished Tranquil Scene,Arcane +1
+257,Grand Burning Scene,[Recluse] Collecting affinity residue activates Terra Magica
+257,Grand Burning Scene,HP Restoration upon Thrusting Sword Attacks
+257,Grand Burning Scene,Changes compatible armament s skill to Rain of Arrows at start of expedition
+258,Polished Burning Scene,Improved Curved Greatsword Attack Power
+258,Polished Burning Scene,Changes compatible armament's skill to Sacred Blade at start of expedition
+259,Polished Tranquil Scene,FP Restoration upon Greataxe Attacks
+259,Polished Tranquil Scene,Attack power up when facing scarlet rot-afflicted enemy
+260,Polished Luminous Scene,[Revenant] during Trigger ghostflame explosion Ultimate Art activation
+260,Polished Luminous Scene,Arcane +3
+261,Polished Tranquil Scene,Improved Dragon Cult Incantations
+261,Polished Tranquil Scene,Ultimate Art Gauge +2
+262,Polished Tranquil Scene,Endurance +1
+262,Polished Tranquil Scene,Lightning Attack Power Up
+263,Delicate Tranquil Scene,Changes compatible armament's skill to Quickstep at start of expedition
+264,Besmirched Frame,Taking attacks improves attack power
+264,Besmirched Frame,Faith +3
+265,Polished Tranquil Scene,Improved Dragon Communion Incantations
+265,Polished Tranquil Scene,Changes compatible armament's skill to Prayerful Strike at start of expedition
+266,Polished Tranquil Scene,HP Restoration upon Halberd Attacks
+266,Polished Tranquil Scene,Magic _ Attack Power Up +1
+267,Delicate Drizzly Scene,"Raised stamina recovery for nearby allies, but not for self"
+268,Delicate Drizzly Scene,Changes Flaming compatible armament's skill to Strike at start of expedition
+269,Delicate Burning Scene,Critical Hits Earn Runes
+270,Grand Tranquil Scene,Partial HP Restoration upon Post-Damage Attacks
+270,Grand Tranquil Scene,Starlight Shards in possession at start of expedition
+270,Grand Tranquil Scene,Rune discount for shop ' purchases while on expedition
+271,Grand Tranquil Scene,Taking attacks improves attack power
+271,Grand Tranquil Scene,Fire Pots in possession at start of expedition
+271,Grand Tranquil Scene,Poise +1
+272,Polished Tranquil Scene,Defeating enemies near Totem Stela restores HP
+272,Polished Tranquil Scene,Changes compatible armaments skill to Chilling Mist at start of expedition
+273,Polished Drizzly Scene,Guardian] Creates whirlwind when charging halberd attacks
+273,Polished Drizzly Scene,Vigor +3
+274,Grand Burning Scene,Improved Carian Sword Sorcery
+274,Grand Burning Scene,Lightning Grease in possession at start of expedition
+274,Grand Burning Scene,Lightning Attack Power Up +1
+275,Polished Tranquil Scene,facing scarlet rot-afflicted Attack power up when enemy
+275,Polished Tranquil Scene,Dexterity +2
+276,Polished Tranquil Scene,Fire Pots in possession at start of expedition
+276,Polished Tranquil Scene,Improved Poison Resistance
+277,Polished Tranquil Scene,Improved Stonedigger Sorcery
+277,Polished Tranquil Scene,Starlight Shards in possession at start of expedition
+278,Polished Burning Scene,[Recluse] Activating Ultimate Art raises Max HP
+278,Polished Burning Scene,Improved Gravity Sorcery
+279,Delicate Drizzly Scene,Improved Blood Loss Resistance
+280,Delicate Burning Scene,Lightning Attack Power Up +2
+281,Polished Drizzly Scene,Magic Attack Power Up +1
+281,Polished Drizzly Scene,Lightning Damage Negation Up
+282,Delicate Burning Scene,Fire Attack Power Up +2
+283,Night ofthe Beast,Stamina recovers with each successful attack +1
+283,Night ofthe Beast,Starting armament deals fire damage
+284,Grand Burning Scene,Vigor +2
+284,Grand Burning Scene,Mind +2
+284,Grand Burning Scene,Lightning Attack Power Up +1
+285,Polished Tranquil Scene,Ultimate Art Gauge +2
+285,Polished Tranquil Scene,Lightning Attack Power Up +1
+286,Polished Burning Scene,Arcane +1
+286,Polished Burning Scene,Magic Attack Power Up +2
+287,Delicate Tranquil Scene,Magic Attack Power Up
+288,Polished Tranquil Scene,Improved Invisibility Sorcery
+288,Polished Tranquil Scene,Dexterity +2
+289,Polished Tranquil Scene,Attack power up when facing poison-. afflicted enemy
+289,Polished Tranquil Scene,Vigor +1
+290,Polished Drizzly Scene,Changes compatible armament's skill to Prayerful Strike at start of expedition
+290,Polished Drizzly Scene,Magic _ Attack Power Up
+291,Polished Burning Scene,Improved Thorn Sorcery
+291,Polished Burning Scene,Vigor +1
+292,Polished Burning Scene,Defeating enemies restores HP for allies but not for self
+292,Polished Burning Scene,Endurance +2
+293,Delicate Tranquil Scene,Lightning Attack Power Up
+294,Delicate Drizzly Scene,Physical Attack Up
+295,Polished Burning Scene,Improved Gravity Sorcery
+295,Polished Burning Scene,Lightning Attack Power Up +1
+296,Delicate Drizzly Scene,Improved Dragon Communion Incantations
+297,Delicate Tranquil Scene,Gravity Stone Chunks in possession at start of expedition
+298,Old Pocketwatch,FP Restoration upon Successive Attacks
+298,Old Pocketwatch,Dexterity +3
+299,Delicate Tranquil Scene,Fire Attack Power Up
+300,Delicate Burning Scene,Improved Katana Attack Power
+301,Polished Burning Scene,Physical Attack Up +2
+301,Polished Burning Scene,Improved Frost Resistance
+302,Delicate Luminous Scene,Endurance +1
+303,Delicate Drizzly Scene,Improved Attack Power with 3+ Colossal Swords Equipped
+304,Polished Drizzly Scene,Improved Attack Power with 3+ Axes Equipped
+304,Polished Drizzly Scene,Defeating enemies fills more ofthe Art gauge
+305,Polished Burning Scene,HP Recovery From Successful Guarding
+305,Polished Burning Scene,Improved Axe Attack Power
+306,Polished Tranquil Scene,Physical Attack Up +2
+306,Polished Tranquil Scene,Improved Poison Resistance
+307,Polished Burning Scene,Improved Stance-Breaking when Two-Handing
+307,Polished Burning Scene,Flask Also Heals Allies
+308,Polished Burning Scene,Changes Flaming compatible armament's skill to Strike at start of expedition
+308,Polished Burning Scene,Intelligence +2
+309,Polished Burning Scene,Improved Throwing Pot Damage
+309,Polished Burning Scene,Stamina recovers with each successful attack
+310,Delicate Drizzly Scene,Poise +2
+311,Delicate Drizzly Scene,Improved Perfuming Arts
+312,Delicate Luminous Scene,Vigor +1

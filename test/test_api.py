@@ -1,4 +1,3 @@
-
 import requests
 import json
 
@@ -9,10 +8,7 @@ url = "http://127.0.0.1:8000/extract-relics/"
 video_path = "/Users/graham/Documents/Development/nightreign-relics/videos/test.mp4"
 
 # Request payload
-payload = {
-    "video_path": video_path,
-    "start_second": 0
-}
+payload = {"video_path": video_path, "start_second": 0}
 
 # Send the POST request
 response = requests.post(url, json=payload)
