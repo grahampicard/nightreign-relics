@@ -1,14 +1,17 @@
-from fastapi import FastAPI
-from pydantic import BaseModel
+from fastapi import FastAPI, File, UploadFile
 from relic_extractor import extract_relics
+import shutil
+import tempfile
 
 app = FastAPI()
 
-class VideoRequest(BaseModel):
-    video_path: str
-    start_second: int = 0
 
 @app.post("/extract-relics/")
-async def extract_relics_endpoint(request: VideoRequest):
-    data = extract_relics(request.video_path, request.start_second)
+async def extract_relics_endpoint(video: UploadFile = File(...)):
+    with tempfile.NamedTemporaryFile(delete=False, suffix=".mp4") as tmp:
+        shutil.copyfileobj(video.file, tmp)
+        tmp_path = tmp.name
+    print("starting")
+    data = extract_relics(tmp_path)
+    print("done")
     return {"relics": data}
