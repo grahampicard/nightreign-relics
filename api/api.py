@@ -1,5 +1,5 @@
 from fastapi import FastAPI, File, UploadFile
-from relic_extractor import extract_relics
+from .relic_extractor import extract_relics
 import shutil
 import tempfile
 

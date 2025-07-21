@@ -1,7 +1,7 @@
 import argparse
 import json
 import csv
-from relic_extractor import extract_relics
+from api.relic_extractor import extract_relics
 
 
 def main():
