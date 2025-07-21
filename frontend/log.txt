@@ -1,0 +1,147 @@
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n
+  frame: ''
+}
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/nod
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-r
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-re
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relic
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n
+  frame: ''
+}
+Not found: /favicon.ico
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/nod
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-r
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-re
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relic
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n
+  frame: ''
+}
+^C
+❯ npm install @tailwindcss/postcss
+
+added 19 packages, and audited 83 packages in 2s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+8 vulnerabilities (3 low, 5 moderate)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+❯ npm run dev
+
+> frontend@0.0.1 dev
+> vite dev
+
+Re-optimizing dependencies because lockfile has changed
+
+  VITE v5.4.19  ready in 373 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+11:06:57 AM [vite] Pre-transform error: [postcss] It looks like you're trying
+11:06:57 AM [vite] Error when evaluating SSR module /src/routes/+layout.svelt
+|- Error: [postcss] It looks like you're trying to use `tailwindcss` directly
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/nod
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-r
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-re
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relic
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics
+
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/nod
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-r
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-re
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relic
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n
+  frame: ''
+}
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/nod
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-r
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-re
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relic
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n
+  frame: ''
+}
+Not found: /favicon.ico
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/nod
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-r
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-re
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relic
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n
+  frame: ''
+}
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/tailwindcss/dist/lib.js:35:2121)
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:361:16)
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:290:26)
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:192:30)
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:436:17) {
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app.css',
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  frame: ''
+}
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as a PostCSS plugin. The PostCSS plugin has moved to a separate package, so to continue using Tailwind CSS with PostCSS you'll need to install `@tailwindcss/postcss` and update your PostCSS configuration.
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/tailwindcss/dist/lib.js:35:2121)
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:361:16)
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:290:26)
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:192:30)
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:436:17) {
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app.css',
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  frame: ''
+}
+Not found: /favicon.ico
+Error: [postcss] It looks like you're trying to use `tailwindcss` directly as a PostCSS plugin. The PostCSS plugin has moved to a separate package, so to continue using Tailwind CSS with PostCSS you'll need to install `@tailwindcss/postcss` and update your PostCSS configuration.
+    at We (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/tailwindcss/dist/lib.js:35:2121)
+    at LazyResult.runOnRoot (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:361:16)
+    at LazyResult.runAsync (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:290:26)
+    at LazyResult.async (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:192:30)
+    at LazyResult.then (/Users/graham/Documents/Development/nightreign-relics/frontend/node_modules/postcss/lib/lazy-result.js:436:17) {
+  code: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  loc: { file: undefined, line: undefined, column: NaN },
+  plugin: 'vite:css',
+  id: '/Users/graham/Documents/Development/nightreign-relics/frontend/src/app.css',
+  pluginCode: '@tailwind base;\n@tailwind components;\n@tailwind utilities;\n',
+  frame: ''
+}
