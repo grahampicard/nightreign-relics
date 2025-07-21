@@ -3,4 +3,4 @@ __pycache__/
 .python-version
 .DS_Store
 node_modules/
-
+*/node_modules/
